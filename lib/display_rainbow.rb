@@ -2,6 +2,6 @@
 
 
 
-def display_rainbow(aura)
-puts "R: # {aura [0]}", "O:{aura [1]}", "Y:{aura [2]}", "G:{aura [3]}," "B:{aura [4]}," "I:{aura [5]}," "V:{aura [6]}"
+def display_rainbow(colors)
+puts "R: # {colors [0]}", "O:{colors [1]}", "Y:{colors [2]}", "G:{colors [3]}," "B:{colors [4]}," "I:{colors [5]}," "V:{colors [6]}"
 end
